@@ -1,0 +1,6 @@
+C:\Work\Project\MyGit\WindowProject\CSharpTraining\Generic\bin\Debug\Generic.exe.config
+C:\Work\Project\MyGit\WindowProject\CSharpTraining\Generic\bin\Debug\Generic.exe
+C:\Work\Project\MyGit\WindowProject\CSharpTraining\Generic\bin\Debug\Generic.pdb
+C:\Work\Project\MyGit\WindowProject\CSharpTraining\Generic\obj\Debug\Generic.csprojResolveAssemblyReference.cache
+C:\Work\Project\MyGit\WindowProject\CSharpTraining\Generic\obj\Debug\Generic.exe
+C:\Work\Project\MyGit\WindowProject\CSharpTraining\Generic\obj\Debug\Generic.pdb

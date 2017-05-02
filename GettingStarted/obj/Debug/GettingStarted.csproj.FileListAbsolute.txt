@@ -1,0 +1,5 @@
+C:\Work\Project\MyGit\WindowProject\CSharpTraining\GettingStarted\bin\Debug\GettingStarted.exe.config
+C:\Work\Project\MyGit\WindowProject\CSharpTraining\GettingStarted\bin\Debug\GettingStarted.exe
+C:\Work\Project\MyGit\WindowProject\CSharpTraining\GettingStarted\bin\Debug\GettingStarted.pdb
+C:\Work\Project\MyGit\WindowProject\CSharpTraining\GettingStarted\obj\Debug\GettingStarted.exe
+C:\Work\Project\MyGit\WindowProject\CSharpTraining\GettingStarted\obj\Debug\GettingStarted.pdb
